@@ -63,4 +63,5 @@ void useGlobal(){
     x*=10;   
     printf("\nlocal x is %d on exiting useGlobal\n",x);
 
+  
 }
